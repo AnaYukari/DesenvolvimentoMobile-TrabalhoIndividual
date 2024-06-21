@@ -16,7 +16,7 @@ O objetivo deste projeto é desenvolver a tela de um aplicativo de minha escolha
  - Deve conter um Readme.md com informações sobre o projeto
  - Deve conter um print da página da aplicação real e um print da sua tela
 
-## Inspiração para a página de login
+## Inspiração para o Trabalho
 
 <h1 align="center">
     <a>
