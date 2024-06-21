@@ -20,7 +20,7 @@ O objetivo deste projeto é desenvolver a tela de um aplicativo de minha escolha
 
 <h1 align="center">
     <a>
-        <img alt="Banner" style="object-fit: cover; height:250px;" src="ImagemRef/WorkOut screenshot.jpg"  />
+        <img alt="Banner" style="object-fit: cover; height:1000px;" src="ImagemRef/WorkOut screenshot.jpg"  />
     </a>
 </h1>
 
